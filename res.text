@@ -1,0 +1,2 @@
+'''hb_pattern = re.compile(r'(HAEMOGLOBIN \(L\)\s+([\d.]+)')
+mcv_pattern = re.compile(r'MCV[:\s]+([\d.]+)')'''
