@@ -1,0 +1,14 @@
+# Core dependencies
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+
+# OCR and Image processing
+pytesseract
+pillow
+opencv-python-headless
+
+# Optional (for regex and performance)
+regex
